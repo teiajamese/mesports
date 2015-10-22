@@ -1,0 +1,29 @@
+
+@import 'bootstrap';
+div{
+	margin:0px;
+	padding:0px;
+}
+nav{
+	background-color:#354657;
+}
+/*.container-fluid{
+	padding:0px;
+	margin:0px;
+}*/
+.navbar-nav{
+	margin-right: 0px;
+}
+.hero-unit{
+	background-image:url('front.jpg');
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	-o-background-size: cover;
+	background-size: cover;
+	background-position:center center;
+	height:900px;
+	max-height:100%;
+}
+.center {
+     text-align: center;
+}
